@@ -1,0 +1,7 @@
+category: Gnome
+requires: libavahi-client3 libavahi-common3 libavahi-glib1 libglib2.0_0 libgpgme11 libgtk3_0 libintl8 libsoup2.4_1
+sdesc: "Broadcasts public encryption keys over DNS-SD and HKP"
+ldesc: "Seahorse is a graphical interface for managing and using
+encryption keys. Currently it supports PGP keys (using GPG/GPGME) and
+SSH keys. Its goal is to provide an easy to use Key Management Tool,
+along with an easy to use interface for encryption operations."
